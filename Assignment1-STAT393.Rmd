@@ -19,7 +19,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ```
 
-## fuck fuck fuck fuck fuck fuck off
+## Assignment 1
 ## (a):
 ### In assessing the impact of rainfall on the growth pattern of tussock grass (Chionochloa rubra), several square metre plots were observed in 9 locations. 4 locations were in one block A, and 5 in a second block B. In each plot the annual rainfall (x) and the number of shoots per square metre (y) were recorded.
 ```{r}
